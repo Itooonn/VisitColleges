@@ -25,5 +25,5 @@ We are all the Debugger, Developer, Designer.
 ---
 
 ## Demo
-🔹 [Click here to view our Website]([https://itooonn.github.io/wad-rwd-project/](https://itooonn.github.io/VisitColleges/))  
+🔹 [Click here to view our Website]([https://itooonn.github.io/VisitColleges/])  
 
